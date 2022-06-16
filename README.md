@@ -15,17 +15,17 @@ Software: Python 3.7.6 (double check), Visual Studio Code (check version)
 
 ## Summary
 The analysis of the election shows that"
-  There were x votes cast
-  The candidates were:
-    Candidate 1
-    Candidate 2
-    Candidate 3
-  The candidate results were:
-    Candidate 1 received x% of the votes and y total votes.
-    Candidate 2 received x% of the votes and y total votes.
-    Candidate 3 received x% of the votes and y total votes.
-  The winner of the election was:
-    Candidate (1, 2, or 3) with x% of the votes and y total votes.
+- There were x votes cast
+- The candidates were:
+  - Candidate 1
+  - Candidate 2
+  - Candidate 3
+- The candidate results were:
+  - Candidate 1 received x% of the votes and y total votes.
+  - Candidate 2 received x% of the votes and y total votes.
+  - Candidate 3 received x% of the votes and y total votes.
+- The winner of the election was:
+  - Candidate (1, 2, or 3) with x% of the votes and y total votes.
     
 ## Challenge Overview
 
